@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mohamed Basman mohamedbasman.dev@gmail.com md_basman
 
 # THANKS
 
