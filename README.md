@@ -6,6 +6,8 @@ This is intro for intro JK
 This is purpose of purpose JK
 ##How to Contribute
 This is contribute of contribute JK
+Please fork this repo ten do pull request
 ##Add only
 This is for add only
-##Local onlyThis is for local only
+##Local only
+This is for local only
